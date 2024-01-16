@@ -87,6 +87,7 @@ After successful completion of this course, it helped me to...
 Technologies & Tools Used for the Course
 ----------------------------------------
 ```
+- TechStack - Oracle SQL, PL SQL
 - SQLDeveloper - Oracle DataBase IDE
 - mysql - open-source relational database management system
 - Microsoft Visual Studio (Only Microsoft Windows)
